@@ -1,2 +1,6 @@
 # tp-git
 tp-git description
+
+## Contributeurs
+- Azimut : travail sur la documentation
+
